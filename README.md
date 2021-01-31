@@ -8,7 +8,7 @@
 
 # Supported tags and respective `Dockerfile` links
 
--	[`10.3-ko`](https://github.com/isdnetworks/docker-mongo/blob/master/Dockerfile)
+-	[`4.0-ko`](https://github.com/isdnetworks/docker-mongo/blob/master/Dockerfile)
 
 # Quick reference (cont.)
 
